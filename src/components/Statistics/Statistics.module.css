@@ -1,0 +1,14 @@
+.list__statistics {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list__item {
+  width: 500px;
+  font-size: 25px;
+}
+
+.list__span {
+  padding-left: 10px;
+  font-weight: 600;
+}
